@@ -43,7 +43,5 @@ This project focuses on building a structured database from raw e-commerce trans
   [📥 Kaggle – Ecommerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 ## 👨‍💻 Developer
-- **Name:** Hesham Saad  
-- **Role:** Data Analyst  
-- **LinkedIn:** [hesham-saad-haiba](https://www.linkedin.com/in/hesham-saad-haiba)  
-- **📧 Email:** hesham.s.haiba@gmail.com
+**Hesham Saad** – Data Analyst  
+[LinkedIn](https://www.linkedin.com/in/hesham-saad-haiba) • [Email](mailto:hesham.s.haiba@gmail.com)
